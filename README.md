@@ -1,92 +1,87 @@
-
 📊 Customer Shopping Behavior Analysis
 🔍 Overview
 
-This project focuses on analyzing customer shopping behavior using a complete data analytics pipeline. It involves data loading, cleaning, exploratory data analysis (EDA), SQL-based insights, and dashboard creation using Power BI. The goal is to extract meaningful business insights and present them through visualizations and reports.
+This project presents an end-to-end data analytics workflow focused on understanding customer shopping behavior. It covers data preprocessing, exploratory data analysis (EDA), SQL-based insights, and interactive dashboard creation using Power BI. The objective is to derive actionable insights that can support business decision-making.
 
 📁 Dataset
 
-The dataset contains customer transaction details such as:
+The dataset contains transactional and demographic information of customers, including:
 
 Customer ID
 Age, Gender
-Item Purchased
-Category
+Item Purchased, Category
 Purchase Amount (USD)
-Location
-Size, Color, Season
+Location, Season
 Subscription Status
 Discount Applied
 Shipping Type
 Previous Purchases
 Review Rating
 🛠️ Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn)
-SQL (PostgreSQL / MySQL / SQL Server)
-Power BI (Dashboard & Visualization)
-Jupyter Notebook
-Gamma (PPT creation)
-⚙️ Project Steps
+Python: Data loading, cleaning, and EDA (Pandas, Matplotlib, Seaborn)
+SQL: Data analysis using PostgreSQL / MySQL / SQL Server
+Power BI: Interactive dashboard and visualization
+Jupyter Notebook: Development environment
+Gamma: Presentation (PPT creation)
+⚙️ Project Workflow
 1. Data Loading
-Loaded dataset using Python (Pandas)
-Checked structure and initial records
+Imported dataset using Pandas
+Verified structure, data types, and initial records
 2. Data Cleaning
-Handled missing values
-Corrected column names and formats
-Removed duplicates
+Handled missing and inconsistent values
+Standardized column names and formats
+Removed duplicates for data integrity
 3. Exploratory Data Analysis (EDA)
-Analyzed customer demographics
-Identified purchasing patterns
-Visualized trends using graphs
+Analyzed customer demographics and behavior
+Identified trends in purchasing patterns
+Visualized distributions and relationships
 4. SQL Analysis
-Imported data into database
-Ran queries to extract insights:
-Revenue by gender
-Customer segmentation
-Top-selling products
-Discount analysis
-Subscription impact
+Loaded data into relational database
+Performed analytical queries to extract insights:
+Revenue by gender and category
+Customer segmentation (new, returning, loyal)
+Top-performing products
+Discount impact analysis
+Subscription-based revenue comparison
 5. Power BI Dashboard
-Built interactive dashboard
-Added filters (Gender, Category, Shipping Type)
-Visualized:
-Customer count
-Revenue trends
-Age group analysis
-Subscription insights
+Built an interactive dashboard with key business metrics
+Implemented slicers for filtering:
+Gender
+Category
+Shipping Type
+Created visualizations such as:
+KPI cards (Total Customers, Revenue)
+Donut chart (Subscription Status)
+Bar charts (Revenue by Age Group)
 6. Report & Presentation
-Created detailed project report
-Designed presentation using Gamma
-📊 Dashboard Highlights
-KPI Cards (Total Customers, Revenue)
-Donut Chart (Subscription Status)
-Bar Charts (Revenue by Age Group)
-Slicers (Gender, Category, Shipping Type)
-Interactive filtering for better insights
-📈 Key Results
-Identified top revenue-generating customer segments
-Found impact of discounts on purchases
-Analyzed customer retention using previous purchases
-Compared shipping preferences and their effect on sales
+Documented findings in a structured report
+Created presentation using Gamma for clear communication of insights
+📊 Dashboard Features
+Interactive filters for dynamic analysis
+Clear visualization of customer behavior
+Revenue breakdown across different segments
+User-friendly design for quick insights
+📈 Key Insights
+Identified high-value customer segments
+Observed the influence of discounts on purchase behavior
+Analyzed customer retention using previous purchase data
+Compared shipping preferences and their impact on revenue
 ▶️ How to Run
 🔹 Python (EDA)
 pip install pandas matplotlib seaborn
-
-Run Jupyter Notebook:
-
 jupyter notebook
 🔹 SQL
-Import dataset into PostgreSQL/MySQL/SQL Server
-Run SQL queries from provided scripts
+Import dataset into PostgreSQL / MySQL / SQL Server
+Execute SQL queries to generate insights
 🔹 Power BI
-Open .pbix file
-Refresh data
-Explore dashboard
+Open the .pbix file
+Refresh data if required
+Interact with dashboard using filters
 📌 Conclusion
 
-This project demonstrates end-to-end data analytics skills including data processing, SQL querying, visualization, and storytelling. It showcases the ability to convert raw data into actionable insights.
+This project demonstrates a complete data analytics pipeline—from raw data processing to business insight generation and visualization. It highlights practical skills in Python, SQL, and Power BI, along with the ability to communicate findings effectively.
 
 👩‍💻 Author
 
 Vandana D L
-CSE Student | Data Analytics Enthusiast
+CSE Student | Data Analytics & Data Science Enthusiast
