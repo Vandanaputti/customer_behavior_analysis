@@ -88,6 +88,18 @@ The dataset contains transactional and demographic information of customers, inc
 - Compared shipping preferences and their impact on revenue  
 
 ---
+## 📊 Dashboard Preview
+
+![Power BI Dashboard]
+<img width="1920" height="1080" alt="Screenshot 2026-04-20 223152" src="https://github.com/user-attachments/assets/d48e04d4-d13f-426c-ac7b-d9d299d585d3" />
+
+---
+
+## 🧠 SQL Analysis Preview
+
+![SQL Queries]
+<img width="1920" height="1080" alt="Screenshot 2026-04-20 223007" src="https://github.com/user-attachments/assets/e8c70c90-2cc6-4cc3-8a34-cb9856f9a173" />
+
 
 ## ▶️ How to Run
 
