@@ -17,6 +17,7 @@ Discount Applied
 Shipping Type
 Previous Purchases
 Review Rating
+
 🛠️ Tools & Technologies
 Python: Data loading, cleaning, and EDA (Pandas, Matplotlib, Seaborn)
 SQL: Data analysis using PostgreSQL / MySQL / SQL Server
