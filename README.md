@@ -95,8 +95,7 @@ The dataset contains transactional and demographic information of customers, inc
 ```bash
 pip install pandas matplotlib seaborn
 jupyter notebook
-
-
+```
 
 🔹 SQL
 Import dataset into PostgreSQL / MySQL / SQL Server
