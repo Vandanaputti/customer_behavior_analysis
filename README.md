@@ -97,18 +97,19 @@ pip install pandas matplotlib seaborn
 jupyter notebook
 ```
 
-🔹 SQL
+-🔹 SQL
 Import dataset into PostgreSQL / MySQL / SQL Server
 Execute SQL queries to generate insights
-🔹 Power BI
+-🔹 Power BI
 Open the .pbix file
 Refresh data if required
 Interact with the dashboard using filters
-📌 Conclusion
+
+##📌 Conclusion
 
 This project demonstrates a complete data analytics pipeline—from raw data processing to extracting meaningful insights and visualizing them effectively. It highlights practical skills in Python, SQL, and Power BI, along with the ability to transform data into actionable business decisions.
 
-👩‍💻 Author
+##👩‍💻 Author
 
-Vandana D L
-CSE Student | Data Analytics & Data Science Enthusiast
+-- Vandana D L
+-- CSE Student | Data Analytics & Data Science Enthusiast
